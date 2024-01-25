@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BANDiT61236
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and how to put pac-man on a(or inside of a) calculator
 - 💞️ I’m looking to collaborate on nothing currently
 
 
